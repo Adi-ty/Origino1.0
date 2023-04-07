@@ -26,8 +26,8 @@ module.exports = {
       },
       colors: {
         ...colors,
-        "light-gold": "#E7DBA2",
-        "dark-gold": "#D0B22C",
+        "light-gold": "#FFD700",
+        "dark-gold": "#533519",
       },
     },
   },
