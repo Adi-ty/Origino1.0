@@ -1,6 +1,6 @@
 "use client";
 
-import { nodejs, python } from "@/documentedCode/documentation-code";
+import { nodejs, python } from "@/helpers/documentation-code";
 import { FC } from "react";
 import SimpleBar from "simplebar-react";
 import Code from "./ui/Code";
