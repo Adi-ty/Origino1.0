@@ -9,6 +9,9 @@ Origino API is an OpenAI-powered API that detects the similarity between texts u
   - Web application to obtain API key
   - Web application with authentication & authorization using NextAuth and Oauth2.0
 
+![Metrics](https://metrics.lecoq.io/adi-ty?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&pagespeed=false&pagespeed.url=https%3A%2F%2Forigino1-0.vercel.app%2F&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FCalcutta)
+
+
 ## Setup
 
 To setup this project locally follow these steps:
